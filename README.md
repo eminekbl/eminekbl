@@ -11,11 +11,12 @@
 
 <br />
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=eminekbl&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=eminekbl&show_icons=true&theme=react&show_icons=true)
    
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminekbl&layout=compact&theme=react&show_icons=true)](https://github.com/eminekbl/github-readme-stats)
 
 ### Github trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=eminekbl&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=eminekbl&theme=react&show_icons=true)
 <br />
 
 ### :mage_man: Languages and Tools:
